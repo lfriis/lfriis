@@ -1,4 +1,4 @@
-### Hi there, I'm Larsen 👋
+### Hello there, I'm Larsen 👋
 
 - 🔭 I’m currently working on a T3 Tech Stack
 - 🌱 I’m currently learning Next.js, tRPC, and React Native
