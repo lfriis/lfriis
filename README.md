@@ -1,7 +1,7 @@
 ### Hi there, I'm Larsen 👋
 
-- 🔭 I’m currently working on T3 Tech Stack
-- 🌱 I’m currently learning Next.js, tRPC
+- 🔭 I’m currently working on a T3 Tech Stack
+- 🌱 I’m currently learning Next.js, tRPC, and React Native
 
 ### 🛠 Tech Stack
 
@@ -14,13 +14,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ***...and many more!***
-
-### Connect with me:
-
-[<img align="left" alt="YouTube" width="22px" src="https://img.icons8.com/color/48/000000/soundcloud.png"/>][soundcloud]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
-[<img align="left" alt="Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
 
 <br/>
 
